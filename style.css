@@ -1,0 +1,64 @@
+table td {
+    width: 2em;
+    padding: 10px;
+}
+
+#row1 td {
+    color: white;
+    background-color: black;
+    font-size: 20px;
+    text-align: center;
+    font-family: NafeesNaksh, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+}
+
+#row1 td nav a {
+    color: white;
+    text-decoration: none;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+#row2 td {
+    text-align: center;
+}
+
+#row3 td {
+    text-align: center;
+    border-bottom: 4px solid black;
+}
+
+#row4 td {
+    text-align: center;
+    font-size: 15px;
+    font-family: NafeesNaksh, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+    padding: 8px;
+    width: 100px;
+    height: 10px;
+    margin: 5px;
+    border-bottom: 2px solid lightgray;
+}
+td{
+    font-family: NafeesNaksh, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+}
+#row5 td .flex{
+    display: flex;
+    flex-direction: row;
+}
+#row5 td .responsive {
+    max-width: 100%;
+    height: auto;
+}
+  
+#row5 td .right {
+    width: 600px;
+    max-width: 100%;
+    margin-left: 28px;
+}
+img{
+    border-radius: 10px;
+}
+a{
+    margin: 50px;
+    color: black;
+    text-decoration: none;
+}
